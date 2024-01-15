@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                  
-% A Definition of the blocks' world for planning
+% A Definition of the blocks' world for planning thiago
 % Coder: Edjard Mota       
 % Date   : 21/04/2021              
 % Source:  Prolog Programming for AI, Ivan Bratko, 
